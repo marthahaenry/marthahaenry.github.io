@@ -2518,7 +2518,6 @@
 	}
 
 		#header:before, #header:after {
-			background: rgba(224, 224, 224, 0.75);
 			content: '';
 			left: 50%;
 			position: absolute;
